@@ -7,7 +7,7 @@ I am ...
 
 ### Front-end engineer / Designer @ [LAWI STUDIOS](https://lawistudios.com)
 
-### Currently building [Efficiently App](https://github.com/pythagoreansoft/efficiently-app)
+### Currently building [Efficiently App](https://join.efficiently.app)
 
 ### Studing CS & Linguistics @ [UCLA](https://github.com/ucla)
 <br/>
