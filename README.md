@@ -1,7 +1,10 @@
 ## KATSUYA WAKABAYASHI
 
-Hello there, I am ...
+Hello there, 
 <br/>
+I am ...
+<br/>
+
 ### Front-end engineer / Designer @ [LAWI STUDIOS](https://lawistudios.com)
 
 ### Currently building [Efficiently App](https://github.com/pythagoreansoft/efficiently-app)
