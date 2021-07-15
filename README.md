@@ -8,4 +8,5 @@ Hello there, I am ...
 
 ### Studing CS & Linguistics @ [UCLA](https://github.com/ucla)
 <br/>
+
 For other projects, check [katsuya.me/projects](https://katsuya.me/projects)
