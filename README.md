@@ -1,4 +1,4 @@
-## KATSUYA WAKABAYASHI
+# KATSUYA WAKABAYASHI
 
 Hello there, 
 <br/>
@@ -9,9 +9,11 @@ I am ...
 
 ### Currently building [Efficiently App](https://join.efficiently.app)
 
-### Studing CS & Linguistics @ [UCLA](https://github.com/ucla)
-<br/>
+### Studing CS & Linguistics @ [UCLA](https://github.com/ucla)<br/>
 
-For other projects, check [katsuya.me/projects](https://katsuya.me/projects)
-For skills, check [katsuya.me/skills](https://katsuya.me/skills)
-For contact, check [katsuya.me/contact](https://katsuya.me/contact)
+
+## More about me
+[katsuya.me/projects](https://katsuya.me/projects)<br/>
+[katsuya.me/skills](https://katsuya.me/skills)<br/>
+[katsuya.me/contact](https://katsuya.me/contact)<br/>
+
