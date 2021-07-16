@@ -1,9 +1,7 @@
 # KATSUYA WAKABAYASHI
 
-Hello there, 
-<br/>
-I am ...
-<br/>
+Hello there, I am ...
+
 
 ### Front-end engineer / Designer @ [LAWI STUDIOS](https://lawistudios.com)
 
@@ -12,7 +10,7 @@ I am ...
 ### Studing CS & Linguistics @ [UCLA](https://github.com/ucla)<br/>
 
 
-## More about me
+and more <br/>
 [katsuya.me/projects](https://katsuya.me/projects)<br/>
 [katsuya.me/skills](https://katsuya.me/skills)<br/>
 [katsuya.me/contact](https://katsuya.me/contact)<br/>
