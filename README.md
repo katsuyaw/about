@@ -1,6 +1,4 @@
-# KATSUYA WAKABAYASHI
-
-Hello there, I am ...
+## Hello there, I am ...
 
 
 ### Front-end engineer / Designer @ [LAWI STUDIOS](https://lawistudios.com)
@@ -9,9 +7,13 @@ Hello there, I am ...
 
 ### Studing CS & Linguistics @ [UCLA](https://github.com/ucla)<br/>
 
+<br>
+<p align="center">
+ <a href="https://github.com/katsuyawakabayashi">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=katsuyawakabayashi&theme=dark" />
+ </a>
 
-<!-- and more <br/>
-[katsuya.me/projects](https://katsuya.me/projects)<br/>
-[katsuya.me/skills](https://katsuya.me/skills)<br/>
-[katsuya.me/contact](https://katsuya.me/contact)<br/>
- -->
+ <a href="https://github.com/katsuyawakabayashi">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=katsuyawakabayashi&layout=compact&theme=dark" />
+ </a>
+</p>
