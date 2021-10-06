@@ -8,7 +8,7 @@
 ### Studing CS & Linguistics @ [UCLA](https://github.com/ucla)<br/>
 
 <br>
-<p align="center">
+
  <a href="https://github.com/katsuyawakabayashi">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=katsuyawakabayashi&theme=dark" />
  </a>
@@ -16,4 +16,4 @@
  <a href="https://github.com/katsuyawakabayashi">
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=katsuyawakabayashi&layout=compact&theme=dark" />
  </a>
-</p>
+
